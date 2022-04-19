@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding (Development)
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me Mail@ soniya.rana@humancloud.biz
-- 
+- Working as FullStack Developer
 
 <!---
 Soniya-Rana/Soniya-Rana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
